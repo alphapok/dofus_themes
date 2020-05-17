@@ -1,10 +1,10 @@
 <theme>
-    <name>darkOpacity Hundred</name>
+    <name>darkOpacity 3000</name>
     <skinType>1</skinType>
-    <description>darkOpacity Hundred : darkOpacity, sans transparence. (Twitter : @Aspette)</description>
+    <description>darkOpacity 3000 : darkOpacity, sans transparence.</description>
     <previewUri>darkOpacityHundred.jpg</previewUri>
-	<author>Aspette</author>
-	<version>5.8.3</version>
+	<author>Aspette & fork by Cali</author>
+	<version>6.0.0</version>
     <dofusVersion>2.55</dofusVersion>
     <creationDate>01/08/2017</creationDate>
     <modificationDate>17/05/2020</modificationDate>
